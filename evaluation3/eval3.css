@@ -1,0 +1,60 @@
+/*formatting of the body tag carries through the page*/
+body {
+	background: #F5F5F7;
+	font-family: Trebuchet MS, sans-serif;
+	font-style: normal;
+	margin-top: 50px;
+	margin-left: 75px;
+	margin-right: 100px;
+	margin-bottom: 25px;
+}
+
+/*align and format color and weight of heading and subheading*/
+h1 {
+	text-align: center;
+	color: #38206b;
+	font-style: strong;
+}
+
+h3 {
+	text-align: left;
+	color: #16295c;
+	font-style: oblique;
+}
+
+h4 {
+	text-align: center;
+	color: #16295c;
+	font-style: oblique;
+}
+
+/*justify paragraph text and set line height*/
+p {
+	text-align: justify;
+	line-height: 1.25;
+}
+
+/*set line height of unordered list*/
+ul {
+	line-height: 1.5;
+}
+
+/*set bullet style*/
+li {
+	list-style-type: circle;
+}
+
+/*center and page all images*/
+img {
+	display: block;
+	float: right;
+	margin-left: auto;
+	margin-right: auto;
+	width: 90%;
+	padding: 10px;
+}
+
+/*set font style of footer*/
+footer {
+	font-style: oblique;
+}
