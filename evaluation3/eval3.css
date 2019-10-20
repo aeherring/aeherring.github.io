@@ -46,7 +46,7 @@ li {
 
 /*center and page all images*/
 img {
-	display: none;
+	display: block;
 	float: right;
 	width: 450px;
 	padding: 10px;
