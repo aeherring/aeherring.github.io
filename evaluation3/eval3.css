@@ -46,7 +46,7 @@ li {
 
 /*center and page all images*/
 img {
-	display: inline;
+	display: none;
 	float: right;
 	margin-left: auto;
 	margin-right: auto;
